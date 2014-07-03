@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 (On the Google Drive)
 
-This is the test case that you are to download, complete and email back to us.
+This is the test case that you are to download, complete and email back to teh test-cycle coordinator.
 
 === Using Github ===
 --------------------------
