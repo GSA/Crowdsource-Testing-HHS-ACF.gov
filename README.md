@@ -34,12 +34,6 @@ https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%
 
 This document contains all of the applications specifics required to complete this test cycle.
 
-=== Directions for Completing a Test Case ===
---------------------------
-https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
-
-This document gives instructions for completing the “Test Case Template”.
-
 === HHS.GOV Test Case 7/2014 ===
 --------------------------
 https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc
