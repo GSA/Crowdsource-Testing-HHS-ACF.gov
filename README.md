@@ -12,9 +12,9 @@ Agency: Defense and Accounting Service (HHS)
 
 Application Name: DFAS.mil Web Site
 
-Test Cycle Dates: July 14, 2014 to July 21, 2014
+Test Cycle Dates: July 16, 2014 to July 23, 2014
 
-Test Cycle Coordinator: David Fern david.fern@ssa.gov
+Test Cycle Coordinator: Clair Koroma Clair.Koroma@hhs.gov
 
 If the links below do not work, you may not be able to access Google Docs.
 
@@ -30,7 +30,7 @@ This document gives some terms and insights into testing mobile applications.
 --------------------------
 (On the Google Drive)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc
 
 This document contains all of the applications specifics required to complete this test cycle.
 
@@ -42,7 +42,7 @@ This document gives instructions for completing the “Test Case Template”.
 
 === HHS.GOV Test Case 7/2014 ===
 --------------------------
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc
 
 (On the Google Drive)
 
@@ -50,8 +50,7 @@ This is the test case that you are to download, complete and email back to teh t
 
 === Using Github ===
 --------------------------
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc
 (On the Google Drive)
 
 Instructions for using GitHub in the crowdsource test-cycles.
